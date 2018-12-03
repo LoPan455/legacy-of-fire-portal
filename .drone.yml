@@ -4,11 +4,11 @@ name: default
 steps:
   - name: get_dependencies
     image: debian
-#    environment:
-#      USERNAME:
-#        from_secret: username
-#      PASSWORD:
-#        from_secret: password
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: aws_access_key_id
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: aws_secret_access_key
     commands:
       - apt-get update && apt-get install hugo curl python
       - curl -O https://bootstrap.pypa.io/get-pip.py
