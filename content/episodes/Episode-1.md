@@ -2,7 +2,7 @@
 title: "Episode 1 - The Out of Towners, The Shifting Sands and Lessons in Jump"
 date: 2016-07-11T17:50:52-06:00
 draft: false
-featured_image: 'episodes/images/city-2.jpg'
+featured_image: 'city-2.jpg'
 ---
 After arriving into port on a ship from Absalom Boomer the gnome cleric convinces his new best friends to accompany him to Jerikal’s ales for a drink. Having nothing better to do, Still the Elf Ninja, Nobody the Elf Wizard, and Valin the Human Ranger decide to tail along. During the journey Boomer had been quite instant that the 3 non-merchant looking dudes on the boat become friends with him even though Still kind of just stood around silently Valin did not partake in the alcohol. Nobody and Boomer were quickly becoming friends do to their shared love of Lizards (which they both have) and a love of all things narcotic.  
 
