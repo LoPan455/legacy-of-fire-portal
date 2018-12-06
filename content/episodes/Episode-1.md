@@ -20,3 +20,5 @@ The troglodyte and Valin dropped 60 ft to the stone floor below as Still and Sal
 Once on the ground, Sallah and Boomer got Valin up on his feet. Still and Sallah went after the troglodyte as Drexel and Nobody worked on the new giant spider threat. It was touch and go for a bit, with Still going unconscious at one point as well and the troglodyte continuing to be difficult to hit… but the party managed to finally put him down and clear the first floor. The troglodytes in the middle floor unable to throw javelins at them as long at they stay away from the hole in the ceiling, the new party then finally stopped to catch their breath.  
 
 End.
+
+{{ template "_internal/google_analytics.html" . }}
