@@ -1,7 +1,7 @@
 ---
 title: "Episode 20 - The Magma Dragon Massacre and Entering the Mines at Silvertarn"
 date: 2018-12-06T06:22:57-06:00
-draft: true
+draft: false
 ---
 
 As the party finishes looting the jink bodies Boomer comes walking into the room. He said two-edge led him over here after he woke up, but the lighting was very faint so he can’t really tell you what was in the other rooms. About that time, Valin wakes up and asks what happened. Akbar steps over and picks up the javelin lying next to his brother. “The alchemist hit you with this, and you passed out.” Says Akbar, followed quickly by an “Ouch. F@CK!” as Akbar accidentally pricks himself with the end of the javelin and succumbs to the poison and passes out.
