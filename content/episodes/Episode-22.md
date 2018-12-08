@@ -1,7 +1,7 @@
 ---
 title: "Episode 22 - The Unmasking of a Snake and Undead Dragon Slaying"
 date: 2018-12-07T12:48:27-06:00
-draft: true
+draft: false
 ---
 A group of 5 large gnolls wielding large axes barreled down the mountain toward the party. Their leader seemed to hang back to observe as the party got into position near a large rock that provided some cover and got ready to strike. Barely and Drexel opened up with spells and arrows as Still and Sallah adjusted their positon to wrap around the gnolls as they came in. As they got closer, Valin rushed in and dropped a gnoll that Drex had softened for him and then got swarmed. As the gnolls came in to attack they whispered some chant while drawing a circle on their axes, which then erupted in flames. As Sallah helped defend the casters from direct attack on the other side of the rock. Slashing, stabbing, shooting and spell slinging happened, and a few rounds later all the berserkers with flaming axes were dead and Valin had a nasty gash in his back from a lucky near crit with an ax which boomer started tending to. Meanwhile, it had become apparent from the flame strikes that their leader was a caster. Akbar throws up a fog cloud to limit the casters vision and Barley keeps peppering him with magic missiles as Sallah started to move towards him. Suddenly, Sallah turned and attacked Valin! The caster had a hold of his mind.
  

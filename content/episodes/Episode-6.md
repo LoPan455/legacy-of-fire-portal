@@ -1,7 +1,7 @@
 ---
 title: "Episode 6 - The Ignoring of Akbar and Visions at the Shrine of Magic"
 date: 2018-11-28T07:39:53-06:00
-draft: true
+draft: false
 ---
 The party wakes to Almah calling for a meeting in the cathedral and food in an hour. The casters begin to prep spells and Akbar wakes from his trance with a sense of excitement and urgency about him. He tells the party that there is urgent business and they must come with him immediately… which is met with some hesitation from those who need to prep spells and put on armor. Akbar is undeterred and still very excited, and he explains that they won’t need spells and it will just take a minute. To which Nobody replies –“You’ve been in a trance since we have known you, you can wait.” Still calmly makes smart a$$ comments in agreement as he carefully dips a shuriken in his new poison. Sallah steps forward to address the group – ‘My friends, my friends…. The a$$hole has a point.” And he heads back into his bed to meditate.
 
