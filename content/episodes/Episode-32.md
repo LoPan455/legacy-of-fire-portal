@@ -1,0 +1,29 @@
+---
+title: "Episode 32 - The Hell Of Eternal Thirst And Creatures From The Black Oasis"
+date: 2018-12-12T06:36:01-06:00
+draft: true
+---
+After a quick heal up and looting, the party is trying to decide where to head next when Akbar rides up on camel. He quickly explains that they need to go out into the desert in the direction this sphinx is pointing to find another Oasis with a temple of Sarenrae on its shores. Locals call it the Hell of Eternal Thirst, but it was once known as The Deep Well of Paradise. When asked why, he explains to Still, Drexel, and Valin that they need to kill things there and get loot. He then explains to Barely and Sallah that its tied to Nefeshti and Djinn and that perhaps they will find Pazavhan, templar of the updraft there… or maybe at least her corpse. He explains to Boomer that Pazavhan was Nefeshti’s cleric so this could be his show.
+
+Sallah relates a quick story about the place to everyone (see below). They shrug and say they were heading that way anyway because that’s the way the bandits came from and they all start wandering off into the desert.
+
+Without proper magical desert protection (like, protection from ice cream), traveling through the day is tough. Boomer and Akbar get fatigued before Akbar buts a communal energy resistance on them to protect them for a bit. They find the remains of the bandit camp in the desert. It looks like 1/3 of them attacked the party, 1/3 of them headed off back toward Katapesh, and 1/3 or them (who were apparently all the gnolls) mounted the Ruhk and took off. There are also some faded tracks showing that 2 giants (the cyclops, the ettin, and one other) had gone further into the desert toward the oasis a while back, and only 2 of them returned.
+
+The party keeps heading toward the Oasis, watching the sky for that Ruhk the whole way. Eventually they travel through a winding canyon that opens into a wide protected valley. They see the lush trees of the oasis at its center. As they start heading that way a shadow crosses the sun and starts diving toward them. As they are about to open fire, Drex tells them that it isn’t the Ruhk. It’s a strange flying lion with a person’s face. Someone identifies this as a Lammasu, lawful good creatures that typically dedicate themselves to the protection of holy sites. The creature lands before them kicking up a cloud of sand, and proclaims in a booming voice that they are to turn back and leave because only death awaits here. Sallah tries to my friend my friend him, but is quickly shut down. Still, showing a side of calm respect that we maybe haven’t seen, explains that you have come to cleans this evil. The creature seems to notice Still’s blade and says he may have misjudged the party. At that, the templars are brought up and everyone shows off their weapons. Sallah asks the noble creature his name. He says he is Fadiya Al’qirym, but most know him as the Lion of the 5 heavens. Sallah explains that he will write of him in his stories once the place is cleansed, and Fadiya thanks him and shows respect to the Dervish, and explains that if the evil is cleansed he will be known as the Lion of the 6 heavens. After a bit more banter, he flies off and the heroes continue toward the oasis.
+
+As they enter the trees and near the pool, they catch the glint of gold on the islands at the center of the Oasis. They also notice the strange blackness swirling under the surface of the water and a horrible smell. Across the pool is a large black obelisk. On the western shore is a depilated white temple with a large brass gong or emblem near the eastern wall. It looks like a white pyramid with the top cut flat. On the eastern shore there are some other ruins.
+
+As Valin touches the water, bubbles start rising in various locations near the shore. The party preps for battle then a large group of Lacodon’s (aquatic ghouls) bust through the surface and attack. Lots of hacking, blasting, shooting and smashing ensue and the creatures are put down without much concern. As the party catches their breath more bubbles begin to appear and the party decides to high tail it to the temple.
+
+End (I think).
+ 
+#### The Hundred Princes of Silver
+ 
+Centuries ago, a never-failing oasis bloomed in the heart of the waste known as the Deep Well of Paradise. Legendarily called into existence by a genie princess, who was called by some the holy daughter of Sarenrae, the blessed oasis sustained those who suffered in the desert’s unrelenting heat, proof against feral gnolls and cruel slavers. Made by the greatest of wishcraft for all who take only what they need and hold its natural spirit in high regard.  
+ 
+Those nomads who walk the blasted way between Ipeq and El-Fatar know where the chasm entrance to the lost gardens lie, though now they say those gardens grow untended. Decades ago the place was cursed by those who needed nothing and brought with them only greed and suffering.
+ 
+Past the chasm entrance long ago did the Hundred Princes of Silver trod; past the carved warnings in the chasm’s of old the merchant kings rode. Although the rift path looked empty from its mouth, a bend and a curve beyond lay a sultan’s ransom, a treasure vault cast into the sands, gleaming through the dust and skeletons of shattered chests. Heedless of the warning, after but a moment’s awe, like jackals the princes leapt. Never a care for whose gold they shoveled into their sleeves, never a wonder at the fates of such riches’ past owners. And in their jubilation, none noticed the fast shadow, nor heard the first of the daughter’s cries.
+ 
+A terrible evil woke there, thrice cursed, and now screams echo forth across the parched wasteland with each sunset. No one travels the Path of the Daughter’s Cry now, no matter how parched a desert wanderer may be. Its canyon walls and rocky cairns rise ominous now, like monuments to false gods, golden and beauteous yet wrong in ways both numerous and deep.
+
