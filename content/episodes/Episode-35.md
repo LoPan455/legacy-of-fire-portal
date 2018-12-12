@@ -1,7 +1,7 @@
 ---
 title: "Episode 35 - The Scattering Of The Sand Man And The First Round Goes To The Grand Mufti "
 date: 2018-12-12T06:46:19-06:00
-draft: true
+draft: false
 ---
 
 Having just put the holy sword into the rock under the swirling shadow cloud and saw no effect, Valin shrugs and pulls it back out. He sheaths it at his side as the party looks around and tries to determine their next move. It is still night, even though that hardly matters in this black hole sun zone, and the party still hasn't' rested. They contemplate heading out and finding a place to sleep but decide that they would rather press on toward that graveyard and see if they can't stake these vamps.

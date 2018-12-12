@@ -1,7 +1,7 @@
 ---
 title: "Episode 34 - The Swamp Thing Is Not That Amazing And The 2001 Intro Scene"
 date: 2018-12-12T06:44:36-06:00
-draft: true
+draft: false
 ---
 
 The party decides to forgo resting and chase after the retreating vamps in centipede form. They assume that the vamps are heading for the graveyard across the lake, but decide to walk along the northern shore and check out the strange monolith on the way there.

@@ -1,7 +1,7 @@
 ---
 title: "Episode 32 - The Hell Of Eternal Thirst And Creatures From The Black Oasis"
 date: 2018-12-12T06:36:01-06:00
-draft: true
+draft: false
 ---
 After a quick heal up and looting, the party is trying to decide where to head next when Akbar rides up on camel. He quickly explains that they need to go out into the desert in the direction this sphinx is pointing to find another Oasis with a temple of Sarenrae on its shores. Locals call it the Hell of Eternal Thirst, but it was once known as The Deep Well of Paradise. When asked why, he explains to Still, Drexel, and Valin that they need to kill things there and get loot. He then explains to Barely and Sallah that its tied to Nefeshti and Djinn and that perhaps they will find Pazavhan, templar of the updraft there… or maybe at least her corpse. He explains to Boomer that Pazavhan was Nefeshti’s cleric so this could be his show.
 
