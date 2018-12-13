@@ -5,7 +5,7 @@ draft: false
 featured_image: 'john-belushi.jpg'
 ---
 
-![Damascius](/damascius.jpeg)
+![Damascius](/damascius.jpg)
 
 ## My beginnings, 20th moon of Arodus
 
