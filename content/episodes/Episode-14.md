@@ -1,5 +1,5 @@
 ---
-title: "Episode 14 - The Genociding and the Claiming of the Battle Market""
+title: "Episode 14 - The Genociding and the Claiming of the Battle Market"
 date: 2018-12-05T06:36:20-06:00
 draft: false
 ---
