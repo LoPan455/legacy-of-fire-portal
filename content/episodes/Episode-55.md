@@ -51,16 +51,19 @@ then use the golden egg to seek us out.
 The boatman will know what is to be done with it. 
 We leave you with these gifts. 
 If you are capable allies you will know what they are for and 
-perhaps not need to use them. We wish you well, and look forward to further discussion. 
+perhaps not need to use them. We wish you well, and look forward to 
+further discussion. 
 ```
 #### Message on the Older Scroll
 ```
 Message on old weathered scroll…
 
 Greetings and welcome, brave hunters, to the Serpent Isles. 
-Here you will find a hunt to satisfy your thirst for challenge, danger, and adventure. 
+Here you will find a hunt to satisfy your thirst for 
+challenge, danger, and adventure. 
 A tale to be told as you relax at the Pleasure Palace as my guest. 
-Your task is simple: you must hunt down the Golden Beast that stalks these lands and 
+Your task is simple: you must hunt down the Golden Beast 
+that stalks these lands and 
 take its horns. There are many challenges to be faced on these islands, 
 but only by sounding the golden horn can you call back the ship that will
  bear thee hence. Do not think to cheat the hunt, 
