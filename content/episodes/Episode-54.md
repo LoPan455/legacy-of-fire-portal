@@ -1,11 +1,8 @@
 ---
-title: "Episode 54"
+title: "Episode 54: The Raising of Akbar and the Scroll of Kakishone"
 date: 2020-01-06T14:06:58-06:00
 draft: false
 ---
-
-# Episode 54: The Raising of Akbar and the Scroll of Kakishone #
-
 This recrap is being written like a whole year after the events of this session went down. Everything is very fuzzy but some events are being recorded for posterity.
 
 The party arrives back at Rayhim’s villa along with the Drow Master Matajinn and the Marid Princess Shazathared. They explain to Rayhim what is going on. He is excited that the eye has been found and he is ready to open the door to Kakishone whenever the party is.

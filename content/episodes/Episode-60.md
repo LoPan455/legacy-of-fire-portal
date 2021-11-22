@@ -1,10 +1,8 @@
 ---
-title: "Episode 60"
+title: "Episode 60: LoF Online S1E1: The mausoleum of Nex and the battle against the elements part1"
 date: 2021-11-21T19:03:25-06:00
 draft: false
 ---
-Recrap - lof60 - lofol1 - The mausoleum of Nex and the battle against the elements part1
-
 
 After putting fuck’n Karen and her managers in their place, and a bit of debate about where to go next, the party heals up and follows Spooky the cat into the dead forest off toward the Mausoleum. As they enter the forest a strange feeling of foreboding and calm comes over them. Drex is looking at the trees, explaining how odd it is that they are obviously dead, but still somehow alive. Undead trees. Everyone expects an attack and sees the branches twitching out of the corner of their eyes but notices nothing out of the ordinary when they look in that direction. Boomer thinks upon the stories of the god of parties, and suddenly really feels like he needs to kneel down and prey in front of one of these trees. Seems like a bad idea but he does it anyway. As he does a sense of acceptance of and protection from death washes over him. He gets a 20th level deathward cast on him. Immediately everyone else starts praying… luckily it works the same for everyone.
 

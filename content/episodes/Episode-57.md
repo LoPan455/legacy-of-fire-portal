@@ -1,10 +1,8 @@
 ---
-title: "Episode 57"
+title: "Episode 57: Three Tounds with The Beast and the Quattoing"
 date: 2021-10-18T19:00:38-06:00
 draft: false
 ---
-# Episode 57: Three Tounds with The Beast and the Quattoing #
-
 After their failure fighting the golden beast, the party sits on the beach drinking mai tais and contemplating their next move. Valin, Akbar, and Barley are nowhere to be seen. It’s assumed they may have warped to a different waypoint. The party tries to contact them but it doesn’t work for some reason.
 
 A plan is hatched to buff up and avoid being swallowed or grappled by the beast so more rounds can be fought at full damage potential. Much buffing is done magic weapon wise and freedom of movement wise and the party (Still, Boomer, Sallah, Drexel and Bellina)  teleport to the cave ready to fight.

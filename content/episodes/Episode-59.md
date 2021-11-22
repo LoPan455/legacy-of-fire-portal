@@ -1,9 +1,8 @@
 ---
-title: "Episode 59"
+title: "Episode 59: The Dilixious Information and the Prattling Mouth of Karen"
 date: 2021-11-20T19:02:17-06:00
 draft: false
 ---
-# Episode 59 The Dilixious Information and the Prattling Mouth of Karen
 
 The party sits and smokes with Dilix, Mahad and Rayheem. They come to realize that they have been in this palace before… but it was crawling with troglodytes at the time. Valin remembers falling through the very dome they sit under. Dilix explains that this palace was an almost direct copy of Nex’s first palace, The Palace of the Shifting Sands. That palace was his first foray into an extradimensional resting place, as it was designed to randomly phase in and out of existence. Once he built Kakishone he abandoned his first palace, and without its creator at the helm the palace of the shifting sands started to appear and disappear at random and was taken over by various other factions.
 

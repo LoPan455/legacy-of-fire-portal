@@ -1,10 +1,8 @@
 ---
-title: "Episode 53"
+title: "Episode 53: The Lesser of Infinite Evils and Curiosity Killed the Nerd"
 date: 2020-01-06T14:02:38-06:00
 draft: false
 ---
-
-Recrap - lof53 - the lesser of infinite evils and curiosity killed the nerd
  
 The sanctuary is opened, and everyone comes out to play. As the party starts to descend into the newly formed secret staircase into the depths of the pyramid, the angel reappears. He looks to still be damaged, and he is put down with one hit… but not before he can try to kill again with his crazy spells. The party rushes down the staircase and finds an orb of fire on a pedestal in the inner room. They take a lot of caution in grabbing the orb (Indiana jones style), but there are no traps. The orb is incredibly hot to the touch, and the party realizes putting it in a bag with other stuff would probably lead to melted stuff. So Vallin just carries it. 
  

@@ -1,9 +1,8 @@
 ---
-title: "Episode 58"
+title: "Episode 58: The Turtle Tussle and Revelry and Revelations at Singer Port"
 date: 2021-11-19T14:36:47-06:00
 draft: false
 ---
-#  Episode 58: The Turtle Tussle and Revelry and Revelations at Singer Port #
 The party spends some time to rest and recoup at the beach gazebo, partaking of many drinks and powders. During this time, someone decides to drink from the non-musical horn from the beast and finds that drinking from the horn imbues magical properties of either enchantment breaking or protection via skin of gold… there are 5 uses left until it is out.
 
 The party decides it is time to go. Someone blows the horn and an iron ship appears on the horizon, sailing directly toward the port even thought here is no wind. As it approaches you hear music drifting over the wine, bawdy pirate jigs are being sung by loudly slurred voices.  
