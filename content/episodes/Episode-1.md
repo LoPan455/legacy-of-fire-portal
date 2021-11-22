@@ -4,6 +4,8 @@ date: 2016-07-11T17:50:52-06:00
 draft: false
 featured_image: '/city-2.jpg'
 ---
+# Episode 1 - The Out of Towners, The Shifting Sands and Lessons in Jump #
+
 After arriving into port on a ship from Absalom Boomer the gnome cleric convinces his new best friends to accompany him to Jerikal’s ales for a drink. Having nothing better to do, Still the Elf Ninja, Nobody the Elf Wizard, and Valin the Human Ranger decide to tail along. During the journey Boomer had been quite instant that the 3 non-merchant looking dudes on the boat become friends with him even though Still kind of just stood around silently Valin did not partake in the alcohol. Nobody and Boomer were quickly becoming friends do to their shared love of Lizards (which they both have) and a love of all things narcotic.  
 
 Unbeknownst to the 4 new arrivals, Sallah of the fraternal order of dervishes had just overheard that an ancient temple or fortress of unknown origian was just unveiled by the shifting sands about 6 hours north of town. He quickly got a hold of some horses and camels and went to Jerikal’s looking for adventuring companions who would be willing to leave with him immediately to beat any other would be explorers to the site. He quickly spotted Drexel the Half Elf ranger, and knowing the dark skinned elf is always up for hunting evil creatures he quickly got his on and off business contact onto the mission. They looked about the room trying to find others to approach. Seeing a party with a brooding elf and a muscle bound human both armed to the teeth hanging out with a drunk gnome and an elf who looked to be a wizard, they figured they found their mark.  

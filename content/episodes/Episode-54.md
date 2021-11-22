@@ -4,7 +4,7 @@ date: 2020-01-06T14:06:58-06:00
 draft: false
 ---
 
-Recrap - lof54 - the raising of Akbar and the scroll of kakishone
+# Episode 54: The Raising of Akbar and the Scroll of Kakishone #
 
 This recrap is being written like a whole year after the events of this session went down. Everything is very fuzzy but some events are being recorded for posterity.
 
