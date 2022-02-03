@@ -1,6 +1,6 @@
 ---
 title: "Episode 61 - Blob of Wounderous Visions and a Robot Rambo Mission "
-date: 2022-12-01T06:58:37-06:00
+date: 2021-12-01T06:58:37-06:00
 draft: false
 ---
 Akbar decides to get off the boat and come help as the water elemental busts onto the scene. Its DR is a bit annoying but in general it isn’t to hard to put down. As soon as it dies the greater fire elemental busts out of its pillar and starts burning everyone. The party feels the burn but eventually puts this last beast down as well. Boomer heals everyone up and then goes to the boat to do some lines.
